@@ -1,6 +1,6 @@
 # Project Title (This is a template README.md file that you can adapt to your project)
 
-> A brief description of what the project does and its purpose.
+> This project wants to compare the city of Portland, OR, and the city of Seattle, WA, and see which has more average rainfall.
 
 ---
 
@@ -28,7 +28,9 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** portland_rain.csv: https://www.dropbox.com/scl/fi/oqkze3lflgr9zxs6jlgyp/portland_rain.csv?rlkey=3xpm7bhelvc54wvkkzz5ftzru&st=3mkvcl10&dl=0
+              seattle_rain.csv: https://www.dropbox.com/scl/fi/4umev6eq3ktdzjtlj3t5z/seattle_rain.csv?rlkey=7b6ssbeirc02q30ikyanhz5su&st=hvo70jxa&dl=0
+              stl_rain.csv: https://www.dropbox.com/scl/fi/vci8xnvogzutw9hbg6s01/stl_rain.csv?rlkey=28wulhk2txozfxsv3wasy7new&st=h88cp14i&dl=0
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
@@ -48,7 +50,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Jamil Ditter - [@yourhandle](https://github.com/yourhandle)
 
 ---
 
