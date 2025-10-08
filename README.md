@@ -26,10 +26,9 @@ came to the conclusion that there is no significant difference in the rainfall o
 
 ## Data
 
-- **Source:**
+- **Source:** All data was sources from NOAA.
 - portland_rain.csv: https://www.dropbox.com/scl/fi/oqkze3lflgr9zxs6jlgyp/portland_rain.csv?rlkey=3xpm7bhelvc54wvkkzz5ftzru&st=3mkvcl10&dl=0
 - seattle_rain.csv: https://www.dropbox.com/scl/fi/4umev6eq3ktdzjtlj3t5z/seattle_rain.csv?rlkey=7b6ssbeirc02q30ikyanhz5su&st=hvo70jxa&dl=0
-- stl_rain.csv: https://www.dropbox.com/scl/fi/vci8xnvogzutw9hbg6s01/stl_rain.csv?rlkey=28wulhk2txozfxsv3wasy7new&st=h88cp14i&dl=0
 - **Description:** This data was imported from NOAA (National Oceanic and Atmospheric Administration), and records daily precipitation values over the period of 2018-2022. This
 -                  data was downloaded as a pair of csv files, one for Seattle weather data and one for Portland weather data.
 
