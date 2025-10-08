@@ -52,11 +52,6 @@ My results showed that under all three circumstances considered, Seattle and Por
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## Requirements
-
-The software used in this project were Excel and JupyterNotebook.
 
 ---
 
