@@ -14,8 +14,8 @@ This project seeks to determine whether Portland or Seattle has more average rai
 
 ```
 ├── data/                 # Raw and processed data
-├── code/                 # Jupyter notebooks and Python scripts
-├── reports/              # Generated reports and visualizations
+├── code/                 # Jupyter notebook
+├── reports/              # Communication report
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
 ```
@@ -24,7 +24,7 @@ This project seeks to determine whether Portland or Seattle has more average rai
 
 ## Data
 
-- **Source:** All data was sources from NOAA.
+- **Source:** All data was sourced from NOAA.
 - portland_rain.csv: https://www.dropbox.com/scl/fi/oqkze3lflgr9zxs6jlgyp/portland_rain.csv?rlkey=3xpm7bhelvc54wvkkzz5ftzru&st=3mkvcl10&dl=0
 - seattle_rain.csv: https://www.dropbox.com/scl/fi/4umev6eq3ktdzjtlj3t5z/seattle_rain.csv?rlkey=7b6ssbeirc02q30ikyanhz5su&st=hvo70jxa&dl=0
 - **Description:** This data was imported from NOAA (National Oceanic and Atmospheric Administration), and records daily precipitation values over the period of 2018-2022. This data was downloaded as a pair of csv files, one for Seattle weather data and one for Portland weather data.
@@ -32,8 +32,7 @@ This project seeks to determine whether Portland or Seattle has more average rai
 
 ## Analysis
 
-The notebook used in this analysis is the weather_final.ipynb notebook, located in the code folder. This was the only notebook used in this analysis,
-and should be run in the order specified in the document.
+The notebook used in this analysis is the weather_final.ipynb notebook, located in the code folder. This was the only notebook used in this analysis, and should be run in the order specified in the document. The data was processed by merging the two datasets together, filling in NAs in the Seattle dataset by taking the same day across each year and averaging the results, and using this number to fill in any missing data. 
 
 ---
 
@@ -52,6 +51,12 @@ My results showed that under all three circumstances considered, Seattle and Por
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Requirements
+
+The software used in this project were Excel and JupyterNotebook.
 
 ---
 
