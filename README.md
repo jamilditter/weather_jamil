@@ -1,4 +1,4 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Seattle vs Portland Precipitation
 
 > This project wants to compare the city of Portland, OR, and the city of Seattle, WA, and see which has more average rainfall.
 
@@ -6,11 +6,9 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
-
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+This project seeks to determine whether Portland or Seattle has more average rainfall. This project uses NOAA weather data measuring precipitation for both cities
+to answer this question. By looking at mean daily precipitation, mean monthly precipitation, and mean monthly proportion of days with precipitation, this project
+came to the conclusion that there is no significant difference in the rainfall of Portland and Seattle.
 
 ---
 
@@ -28,29 +26,32 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** portland_rain.csv: https://www.dropbox.com/scl/fi/oqkze3lflgr9zxs6jlgyp/portland_rain.csv?rlkey=3xpm7bhelvc54wvkkzz5ftzru&st=3mkvcl10&dl=0
-              seattle_rain.csv: https://www.dropbox.com/scl/fi/4umev6eq3ktdzjtlj3t5z/seattle_rain.csv?rlkey=7b6ssbeirc02q30ikyanhz5su&st=hvo70jxa&dl=0
-              stl_rain.csv: https://www.dropbox.com/scl/fi/vci8xnvogzutw9hbg6s01/stl_rain.csv?rlkey=28wulhk2txozfxsv3wasy7new&st=h88cp14i&dl=0
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+- **Source:**
+-- portland_rain.csv: https://www.dropbox.com/scl/fi/oqkze3lflgr9zxs6jlgyp/portland_rain.csv?rlkey=3xpm7bhelvc54wvkkzz5ftzru&st=3mkvcl10&dl=0
+-- seattle_rain.csv: https://www.dropbox.com/scl/fi/4umev6eq3ktdzjtlj3t5z/seattle_rain.csv?rlkey=7b6ssbeirc02q30ikyanhz5su&st=hvo70jxa&dl=0
+-- stl_rain.csv: https://www.dropbox.com/scl/fi/vci8xnvogzutw9hbg6s01/stl_rain.csv?rlkey=28wulhk2txozfxsv3wasy7new&st=h88cp14i&dl=0
+- **Description:** This data was imported from NOAA (National Oceanic and Atmospheric Administration), and records daily precipitation values over the period of 2018-2022. This
+-                  data was downloaded as a pair of csv files, one for Seattle weather data and one for Portland weather data.
 
 ---
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+The notebook used in this analysis is the weather_final.ipynb notebook, located in the code folder. This was the only notebook used in this analysis,
+and should be run in the order specified in the document.
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+My results showed that under all three circumstances considered, Seattle and Portland had very similar levels of rainfall. Thus, the conclusion drawn from this
+data shows that there is no significant difference in rainfall between the cities of Seattle and Portland. 
 
 ---
 
 ## Authors
 
-- Jamil Ditter - [@yourhandle](https://github.com/yourhandle)
+- Jamil Ditter - [@jamilditter](https://github.com/jamilditter)
 
 ---
 
@@ -62,6 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
+- NOAA Weather Observation Data
+- Brian Fischer
 - Tools/libraries used
 - Tutorials or papers referenced
 - Inspiration or collaborators
