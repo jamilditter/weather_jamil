@@ -38,7 +38,7 @@ The notebook used in this analysis is the weather_final.ipynb notebook, located 
 
 ## Results
 
-My results showed that under all three circumstances considered, Seattle and Portland had very similar levels of rainfall. Thus, the conclusion drawn from this data shows that there is no significant difference in rainfall between the cities of Seattle and Portland. 
+My results showed that under all three circumstances considered, Seattle and Portland had very similar levels of rainfall. Thus, the conclusion drawn from this data is that there is no significant difference in rainfall between the cities of Seattle and Portland. 
 
 ---
 
