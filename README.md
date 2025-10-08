@@ -1,6 +1,6 @@
 # Seattle vs Portland Precipitation
 
-> This project wants to compare the city of Portland, OR, and the city of Seattle, WA, and see which has more average rainfall.
+> This project seeks to compare the city of Portland, OR, and the city of Seattle, WA, and see which has more average rainfall.
 
 ---
 
