@@ -59,6 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - NOAA Weather Observation Data
 - Brian Fischer
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
